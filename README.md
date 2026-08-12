@@ -9,14 +9,11 @@ I have a deep focus on **architecture, performance, clean code, and learning**..
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/kaiobarbosa">
-    <img src="https://img.shields.io/badge/GitHub-kaiobarbosa-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/brgxl">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<div> 
+  <a href = "mailto:kaio.bragab@gmail.com"><img src="[![Gmail](https://shields.io)](mailto:your-email@gmail.com)
+" target="_blank"></a>
+ <a target="_blank" href="https://www.linkedin.com/in/kaio-barbosa944b461bb/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 ---
 
 ## 🛠️ Tech Stack
